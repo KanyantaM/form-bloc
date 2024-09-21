@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1029846276923",
+    "project_id": "form-47277",
+    "storage_bucket": "form-47277.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029846276923:android:aa17fdfcba54847ce2b51e",
+        "android_client_info": {
+          "package_name": "com.example.interview"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDULwiTgfgWl31hHTgtYkEeqTxLqNie138"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
